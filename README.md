@@ -1,6 +1,6 @@
 ## 👨‍💻 Olá, meu nome é <strong>Enzo Spagnolli!</strong>
 
-> Sou desenvolvedor Front-end .
+> Desenvolvedor Full-Stack .
 
 💬 Atualmente trabalho em projetos VTEX, React, Gatsby e Nodejs.
 
