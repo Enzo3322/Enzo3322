@@ -1,8 +1,8 @@
-## 👨‍💻 Olá, meu nome é <strong>Enzo Spagnolli!</strong>
+## 👨‍💻 Olá, seja bem-vindo ao meu perfil!
 
-> Desenvolvedor Full-Stack .
+> Desenvolvedor Full-Stack... Overflow.
 
-💬 Atualmente trabalho em projetos VTEX, React, Gatsby e Nodejs.
+💬 Atualmente atuo no desenvolvimento de aplicações baseadas em plataforma VTEX, React, Gatsby e Nodejs.
 
 ---
 
