@@ -25,4 +25,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo3322&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/Enzo3322/ReadmeSvg/master/github-user-contribution.svg) 
