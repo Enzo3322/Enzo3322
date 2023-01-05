@@ -1,4 +1,4 @@
-### My name is `Enzo Spagnolli`.
+### My name is `Enzo Spagnolli` im Senior Software Engineer.
 
 📚 Analysis and Systems Development UNIP.
 
