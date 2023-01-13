@@ -1,6 +1,6 @@
 ## My name is `Enzo Spagnolli`.
 
-- 📚 Analysis and Systems Development UNIP.
+- Systems Analysis and Development Technologist
 - Vtex Implementation Specialist
 - Vtex IO Developer
 - Senior Frontend Developer
