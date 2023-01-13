@@ -1,6 +1,6 @@
-### My name is `Enzo Spagnolli` im Senior Software Engineer.
+## My name is `Enzo Spagnolli`.
 
-📚 Analysis and Systems Development UNIP.
+- 📚 Analysis and Systems Development UNIP.
 
 
 ### Languages and Tools:
@@ -15,13 +15,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="35px"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="35px"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="35px"/>&nbsp;&nbsp;&nbsp;&nbsp;
-
-## My activities
-
-<a href="https://github.com/Enzo3322">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Enzo3322&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/Enzo3322">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo3322&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-</a>
-
