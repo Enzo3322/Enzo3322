@@ -1,6 +1,12 @@
 ## My name is `Enzo Spagnolli`.
 
 - 📚 Analysis and Systems Development UNIP.
+- Vtex Implementation Specialist
+- Vtex IO Developer
+- Senior Frontend Developer
+
+### About
+I've been working on Vtex-based e-commerce implementation projects for just over 3 years, working on the development of React components, development of services in NodeJs, implementing integrations via GraphQl and assisting other developers in the development routine
 
 
 ### Languages and Tools:
