@@ -1,5 +1,5 @@
 # 🗿 About Me:
-I currently work as a Senior developer in an E-commerce project using VTEX IO, I have advanced knowledge in FrontEnd development. I am familiar with agile development routines using Scrum Kanban and XP. I am interested in backend development, I have knowledge of architecture and design patterns.
+I currently work as a Senior developer in an E-commerce project using VTEX IO, I have advanced knowledge in FrontEnd development. I am familiar with agile development routines using Scrum, Kanban and XP. I am interested in backend development and I have knowledge of architecture and design patterns.
 
 
 ## 🌐 Socials:
