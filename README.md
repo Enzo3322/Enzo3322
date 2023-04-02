@@ -1,5 +1,9 @@
 # 👀 About Me:
-I currently work as a Senior developer in an E-commerce project using VTEX IO, I have advanced knowledge in FrontEnd development. I am familiar with agile development routines using Scrum, Kanban and XP. I am interested in backend development and I have knowledge of architecture and design patterns.
+As a seasoned full-stack developer with over 3 years of experience, I possess a broad skill set that includes both backend and frontend development. I am well-versed in backend technologies such as Node.js, Fastify, RabbitMQ, PostgreSQL, MongoDB, Docker, Azure, Nginx, and Prisma, as well as frontend technologies focused on the eCommerce industry such as Next.js, Gatsby, TypeScript, React, and VTEX IO.
+
+Working in collaboration with business stakeholders, I am able to design and develop comprehensive solutions that meet quality and performance standards. My ability to work well in a team, combined with my passion for problem-solving, enables me to assist other developers in their day-to-day tasks.
+
+With a strong focus on continuous learning and development, I am constantly refining my skills and staying abreast of industry trends to ensure that I can deliver the best possible solutions to my clients.
 
 
 ## 🌐 Socials:
