@@ -1,5 +1,5 @@
 # 👀 About Me:
-As a seasoned full-stack developer with over 3 years of experience, I possess a broad skill set that includes both backend and frontend development. I am well-versed in backend technologies such as Node.js, Fastify, RabbitMQ, PostgreSQL, MongoDB, Docker, Azure, Nginx, and Prisma, as well as frontend technologies focused on the eCommerce industry such as Next.js, Gatsby, TypeScript, React, and VTEX IO.
+As a seasoned full-stack developer, I possess a broad skill set that includes both backend and frontend development. I am well-versed in backend technologies such as Node.js, Fastify, RabbitMQ, PostgreSQL, MongoDB, Docker, Azure, Nginx, and Prisma, as well as frontend technologies focused on the eCommerce industry such as Next.js, Gatsby, TypeScript, React, and VTEX IO.
 
 Working in collaboration with business stakeholders, I am able to design and develop comprehensive solutions that meet quality and performance standards. My ability to work well in a team, combined with my passion for problem-solving, enables me to assist other developers in their day-to-day tasks.
 
