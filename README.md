@@ -3,7 +3,7 @@ As a seasoned full-stack developer, I possess a broad skill set that includes bo
 
 Working in collaboration with business stakeholders, I am able to design and develop comprehensive solutions that meet quality and performance standards. My ability to work well in a team, combined with my passion for problem-solving, enables me to assist other developers in their day-to-day tasks.
 
-With a strong focus on continuous learning and development, I am constantly refining my skills and staying abreast of industry trends to ensure that I can deliver the best possible solutions to my clients.
+With a strong focus on continuous learning and development, I am constantly refining my skills and staying abreast of industry trends to ensure that I can deliver the best possible solutions.
 
 
 ## 🌐 Socials:
