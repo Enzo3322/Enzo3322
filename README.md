@@ -4,10 +4,6 @@
 # About
 Experienced Senior Full Stack Developer proficient in a range of technologies including Node.js, React, Next.js, TypeScript, Docker, AWS, and Nginx. With a solid background in frontend and backend development, I specialize in creating scalable and effective solutions. Skilled in implementing design patterns like Hexagonal Architecture, MVC, and Atomic Design for maintainable and adaptable codebases.
 
-Skills: Node.js, React, Next.js, TypeScript, Docker, AWS (EC2, S3, Lambda, etc.), Nginx, Express.js, MongoDB, PostgreSQL, RESTful APIs, GraphQL
-
-Expertise: Full Stack Development, Frontend & Backend Development, Microservices Architecture, DevOps, Continuous Integration/Continuous Deployment (CI/CD), Scalable Infrastructure Design
-
 Collaborating closely with development teams to drive projects from conception to delivery. Mentoring junior developers and fostering a collaborative learning environment.
 
 Committed to staying updated with industry trends and technologies. Actively contributes to the developer community through knowledge sharing and mentorship. Passionate about crafting efficient solutions to address complex challenges and drive business success.
