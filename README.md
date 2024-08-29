@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enzospagnolli) 
 
 # About
-Experienced Senior Full Stack Developer proficient in a range of technologies including Node.js, React, Next.js, TypeScript, Docker, AWS, and Nginx. With a solid background in frontend and backend development, I specialize in creating scalable and effective solutions. Skilled in implementing design patterns like Hexagonal Architecture, MVC, and Atomic Design for maintainable and adaptable codebases.
+Senior Full Stack Developer proficient in a range of technologies including Node.js, React, Next.js, TypeScript, Docker, AWS, and Nginx. With a solid background in frontend and backend development, I specialize in creating scalable and effective solutions. Skilled in implementing design patterns like Hexagonal Architecture, MVC, and Atomic Design for maintainable and adaptable codebases.
 
 Collaborating closely with development teams to drive projects from conception to delivery. Mentoring junior developers and fostering a collaborative learning environment.
 
