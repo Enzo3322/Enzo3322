@@ -10,5 +10,3 @@ My approach revolves around meticulous attention to detail and a commitment to w
 
 In addition to my frontend prowess, I possess a comprehensive skill set encompassing testing methodologies such as Cypress and Jest, as well as proficiency in continuous integration and delivery pipelines.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo3322&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=Enzo3322&icon=0&color=0)](https://visitcount.itsvg.in)
