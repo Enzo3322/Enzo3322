@@ -11,15 +11,6 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const enzo = {
-  role: "Senior Software Engineer",
-  location: "Santos, SP 🇧🇷",
-  focus: ["E-commerce", "System Design", "Checkout Flows", "Microservices"],
-  motto: "Scalable solutions, clean code, continuous learning.",
-};
-```
-
 I'm a Software Engineer with deep expertise in **e-commerce development**, especially within the **VTEX ecosystem**. I design high-traffic checkout systems, event-driven microservices, and cloud-native architectures. Passionate about mentoring, clean architecture, and shipping reliable software at scale.
 
 ---
