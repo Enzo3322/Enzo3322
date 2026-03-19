@@ -1,7 +1,7 @@
 
 # Hey, I'm Enzo Spagnolli 👋
 
-**Senior Software Engineer** from Santos, SP 🇧🇷
+**Software Engineer** from Santos, SP 🇧🇷
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-spag.dev-1f6feb?style=for-the-badge)](https://spag.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-Enzo3322-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Enzo3322)
@@ -85,4 +85,4 @@ I'm a Software Engineer with deep expertise in **e-commerce development**, espec
 **💬 Let's build something great together!**
 
 [![Portfolio](https://img.shields.io/badge/spag.dev-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://spag.dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:espagnolli.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.spag14@gmail.com)
